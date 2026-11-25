@@ -1,6 +1,6 @@
 <div align="center">
 
-# 馨馨 — 前端开发工程师
+# 杨缘馨 — 前端开发工程师
 
 **6 年实战 · 机场 + 能源双行业 · Vue 3 + Three.js + AI Coding 重度玩家**
 
